@@ -1,7 +1,6 @@
-#! /bin/bash
-
+#!/bin/bash
 gostonline(){
-    cd /root
+    cd
     bash gost_start.sh
 }
 gostonline
