@@ -1,8 +1,7 @@
-#!/usr/bin/env bash
-PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
+#! /bin/bash
 
 gostonline(){
-    cd
+    cd /root
     bash gost_start.sh
 }
 gostonline
