@@ -1,6 +1,6 @@
 #!/bin/bash
 gostonline(){
-    cd
+    cd /root/Gost-Utils
     bash gost_start.sh
 }
 gostonline
